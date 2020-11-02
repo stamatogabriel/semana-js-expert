@@ -1,5 +1,5 @@
 # Projeto realizado na Semana JS Expert
-- Instrutor: Eric Wendel
+- Instrutor: [Eric Wendel](https://github.com/ErickWendel)
 
 Projeto idealizado para entender a lógica por trás do filme Bandersnatch da Netflix e entender como disponibilizar arquivos sob demanda de acordo com a velocidade de internet do usuário e concatenando arquivos.
 
